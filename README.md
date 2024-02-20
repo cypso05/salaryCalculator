@@ -1,8 +1,8 @@
 # Salary Calculator Web App
 
-This Python web application Salary.py is a simple app for calculating an annual salary based on #hourly pay rate, hours worked per day, days worked per week, and holiday hours.
-#
-It uses the Flask framework to set up a basic web server and render HTML templates. The main route '/' will display the salary calculator page.
+This Python web application **Salary.py file  **is a simple app for calculating an annual salary based on **#hourly pay rate, hours worked per day, days worked per week, and holiday hours.**
+
+It uses the **Flask framework** to set up a basic web server and render HTML templates. The main route '/' will display the salary calculator page.
 
 The calculator page is defined in the 'original_html' variable as a HTML string. It contains a form with input fields for hours per day, pay per hour, week days, and holiday hours. There is a Calculate button that calls the JavaScript function calculateSalary() when clicked. Below the button is a textarea field to display the final yearly salary result.
 
@@ -14,4 +14,4 @@ The key logic is calculating weekly hours, holiday pay, weekly pay, and total ye
 This Simple application shows how to combine the power of python and javascript to make a simple user friendly web application. There is room for improvement. 
 
 
-I also attached a python template # dybamicHTML.py that is able to generate dynamic HTML5 pages. The template can be modified to produce an entirely different result. 
+I also attached a python template **# dynamicHTML.py** file that is able to generate dynamic HTML5 pages. The template can be modified to produce an entirely different result. 
