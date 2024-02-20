@@ -22,10 +22,6 @@ Use a templating engine like Jinja instead of embedding raw HTML in a string. Th
 
 Validate user input before passing to calculation functions. This improves security and robustness against bad data.
 
-Use more semantic HTML tags like
-
-, instead of generic
-and . This improves accessibility and readability.
 Extract the salary calculation logic into a separate function. Keeps the view code clean and makes it easier to reuse/test that logic.
 
 Add type annotations for function arguments and returns. This documents intent and enables type checking for robustness.
