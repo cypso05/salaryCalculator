@@ -1,6 +1,6 @@
 # Salary Calculator Web App
 
-This Python web application **Salary.py** file  is a simple app for calculating an annual salary based on **#hourly pay rate, hours worked per day, days worked per week, and holiday hours.**
+This Python web application **SalaryCal.py** file  is a simple app for calculating an annual salary based on **#hourly pay rate, hours worked per day, days worked per week, and holiday hours.**
 
 It uses the **Flask framework** to set up a basic web server and render HTML templates. The main route '/' will display the salary calculator page.
 
